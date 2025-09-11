@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there , I'm Tarangini_dave
 
-<!--
-**taranginidave/taranginidave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  I’m currently learning Machine Learning, Data Science and python
+-  Passionate about solving real-world  problems using AI/ML
+-  Exploring projects in C and Python
+-  Interested in open source contributions and continuous learning
 
-Here are some ideas to get you started:
+ ## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,c" alt="Python, C++, C" height="40" />
+
+  <!-- Libraries and Frameworks -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+</p>
+
