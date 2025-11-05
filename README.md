@@ -2,7 +2,7 @@
 
 -  I’m currently learning Machine Learning, Data Science and python
 -  Passionate about solving real-world  problems using AI/ML
--  Exploring projects in C and Python
+-  Exploring projects in C++ and Python
 -  Interested in open source contributions and continuous learning
 
  ## 🛠 Tech Stack
